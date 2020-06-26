@@ -1,0 +1,55 @@
+.five{
+    background-image: url("../../Image/imageFooter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 0;
+    height: 400px;
+}
+.five p{
+    color: white;
+}
+.five .card{
+    height: 42px;
+}
+.five .card:hover{
+    border: #f47920 1px solid;
+}
+.five.card img{
+    height: 25px !important;
+}
+.five input:hover{
+    border: #f47920 1px solid;
+}
+.five button{
+    background-color: #f47920;
+}
+.five button:hover{
+    background-color: #FAAC58;
+}
+@media screen and (max-width :991px){
+    .phone{
+        display: none;
+    }
+    .download{
+        margin-top: 0px !important;
+    }
+    .sign{
+        margin-top: 0px !important;
+    }
+    .five{
+        height: 500px !important;
+    }
+}
+@media screen and (max-width :576px){
+    .mavung img{
+        height: 15px !important;
+    }
+    .mavung p{
+        font-size: 13px !important;
+        color: black !important;
+    }
+    .mavung :-ms-input-placeholder{
+        padding-left: 0px !important;
+    }
+}

@@ -1,0 +1,10 @@
+.App .nav-link:hover{
+    color: orange !important;
+}
+.App .navbar-nav{
+    text-align: center;
+}
+.lang{
+    width: 100px;
+    margin: auto;
+}

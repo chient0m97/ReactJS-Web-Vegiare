@@ -1,0 +1,11 @@
+.third{
+    background-color: #f3f3f3 !important;
+}
+.third .card{
+    height: 370px;
+}
+@media screen and (max-width:767px){
+    .third .card{
+        height: 450px !important;
+    }
+}

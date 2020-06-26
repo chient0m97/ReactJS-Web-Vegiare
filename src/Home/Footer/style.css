@@ -1,0 +1,14 @@
+.footer{
+    background-color: #28272f !important;
+}
+.footer .start{
+    border-bottom: white 1px solid;
+}
+.footer p{
+    color: white !important;
+}
+@media screen and (max-width : 575px){
+    .image-footer{
+        height: 50px !important;
+    }
+}

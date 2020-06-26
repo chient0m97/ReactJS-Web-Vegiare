@@ -1,0 +1,11 @@
+@media screen and (max-width: 576px){
+    .magazine img{
+        min-height: 18px !important;
+    }
+    .magazine .title{
+        font-size: 13px !important;
+    }
+    .bank img{
+        max-width: 100% !important;
+    }
+}

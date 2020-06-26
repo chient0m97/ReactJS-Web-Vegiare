@@ -1,0 +1,120 @@
+.second{
+    background-color: #f3f3f3 !important;
+}
+.ant-form-item-control {
+    line-height: 32px !important;
+}
+.second .mobile{
+    display: none !important;
+}
+.content .info-header{
+    width: 8%;
+    margin: auto;
+    border-bottom: 6px #F47920 solid;
+}
+.content .card{
+    height: 550px !important;
+}
+.card:hover button{
+    background-color: #F47920;
+}
+.card-img-top:hover{
+    background-color: #F47920;
+}
+.second .book{
+    border-radius: 5px;
+    border: #d9d9d9 1px solid;
+}
+.second .book:hover{
+    border-radius: 5px;
+    border: #F47920 1px solid;
+}
+.second .search{
+    background-color: #f47920;
+}
+.second .search:hover{
+    background-color: #F47920;
+}
+.second input:hover{
+    border: #F47920 1px solid;
+}
+.ant-calendar-picker-input:hover {
+    border-radius: 5px;
+    border: #F47920 1px solid !important;
+}
+.ant-popover-title {
+    background-color: #F47920;
+    font-size: 16px;
+}
+.second .inputposition:hover{
+    border-radius: 5px;
+    border: #F47920 1px solid;
+}
+.ant-input:placeholder-shown:hover{
+    border: #F47920 1px solid;
+}
+.ant-select-selection:hover{
+    border: #F47920 1px solid !important;
+    border-radius: 5px;
+}
+.anticon svg {
+    color: #F47920 !important ;
+}
+.selectBox svg {
+    display: none !important;
+}
+.ant-radio-inner::after {
+    background-color: #F47920 !important
+}
+.ant-radio-checked .ant-radio-inner {
+    border-color: #F47920 !important
+}
+.card:hover .hover-image{
+    background-color: #F47920;
+    position: absolute;
+    opacity: 0.5;
+}
+.btn-chose{
+    background:#F47920;
+    border: #F47920 1px solid;
+}.btn-chose:hover{
+    background:#FE9A2E;
+    border: #FE9A2E 1px solid;
+}
+@media screen and (max-width: 767px){
+    .second .desktop{
+        display: none !important;
+    }
+    .second .mobile{
+        display: inline !important;
+    }
+    .ant-popover-title {
+        background-color: white;
+        font-size: 16px;
+    }
+    .btn-back{
+        background:#F47920;
+        border: #F47920 1px solid;
+    }.btn-back:hover{
+        background:#FE9A2E;
+        border: #FE9A2E 1px solid;
+    }
+    .panel svg{
+        display: none !important;
+    }
+    .selectbox svg {
+        display: inline !important;
+    }
+    .btn-chose{
+        background:#F47920;
+        border: #F47920 1px solid;
+    }.btn-chose:hover{
+        background:#FE9A2E;
+        border: #FE9A2E 1px solid;
+    }
+}
+
+
+
+
+
